@@ -1,0 +1,26 @@
+{
+  "name": "authapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.8",
+    "jquery": "^3.4.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-dom": "^16.12.0",
+    "react-meteor-data": "^0.2.11",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

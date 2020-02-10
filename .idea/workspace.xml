@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baa3ef83-ed8d-4501-8878-e9a2eaac8dc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XTKFG4tfoitRyYkIwwOVz2pYRh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="enabled" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.meteor.library.cached" value="$PROJECT_DIR$/.meteor" />
+    <property name="js.meteor.library.was.enabled" value="true" />
+    <property name="js.meteor.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../auth-app-master" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run Meteor" type="meteor-app-runner" factoryName="Meteor">
+      <option name="exePath" value="$USER_HOME$/AppData/Local/.meteor/meteor.bat" />
+      <option name="startBrowserSettings">
+        <browser url="http://localhost:3000" />
+      </option>
+      <meteor-runner-state>
+        <startBrowserSettings>
+          <browser url="http://localhost:3000" />
+        </startBrowserSettings>
+      </meteor-runner-state>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baa3ef83-ed8d-4501-8878-e9a2eaac8dc4" name="Default Changelist" comment="" />
+      <created>1581064538785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581064538785</updated>
+      <workItem from="1581064571382" duration="20052000" />
+      <workItem from="1581323223791" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581065030204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581065030204" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1581074428859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581074428859" />
+    <state width="1345" height="3" key="GridCell.Tab.0.bottom" timestamp="1581088260308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="3" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581088260308" />
+    <state width="1345" height="3" key="GridCell.Tab.0.center" timestamp="1581088260308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="3" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581088260308" />
+    <state width="1345" height="3" key="GridCell.Tab.0.left" timestamp="1581088260307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="3" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581088260307" />
+    <state width="1345" height="3" key="GridCell.Tab.0.right" timestamp="1581088260308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="3" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581088260308" />
+  </component>
+</project>
